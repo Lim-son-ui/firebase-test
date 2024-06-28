@@ -1,0 +1,47 @@
+.react-bootstrap-table .table-bordered{
+    border: double 0.3em;
+    width: 97vw;
+    border-color: cadetblue;
+    background-color:rgba(127, 236, 255, 0.598);
+    /* width: auto; */
+}
+
+.tabtest{
+    display: flex;
+    justify-content: start;
+    width: 50vw;
+}
+  
+.custom-modal-overlayy {
+    background-color: 	#C4E1E1;
+    background: #74992e;
+    /* background-color: 	#007979;  */
+    /* 更換成你想要的背景色碼 */
+}
+
+.container-rectangle {
+    border: solid 0.3em;
+    width: auto;
+    border-color: aqua;
+}
+
+.container-rectangle-in {
+    border: solid 0.1em;
+    width: auto;
+    border-color: coral;
+}
+
+.custom-margin {
+    margin: 10px;  /* 可以根據需要調整數值 */
+}
+/* 
+.materialtable_overlay {
+    background-color: 	#007979;
+    background: radial-gradient(to top, #c5d5fa, #c3dc99);
+} */
+
+/* .material-table-container { */
+    /* position: relative; */
+    /* z-index: 5000;  */
+    /* 比 navbar 的 z-index 更高 */
+/* } */
