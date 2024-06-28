@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # "React Persistent User Login Authentication with JWT Tokens"
 
 ✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
@@ -15,3 +16,6 @@ I suggest completing my [8 hour JavaScript course tutorial video](https://youtu.
 ### Academic Honesty
 
 **DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
+=======
+# firebase-test
+>>>>>>> 5e6fb2ce5064853ec0f2566e73a6415675672e5c
